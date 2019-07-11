@@ -16,6 +16,12 @@
     <Filter Include="소스 파일\Level2">
       <UniqueIdentifier>{33a65ce9-f48d-4c3e-be6a-ce553d4bded9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Level3">
+      <UniqueIdentifier>{ed971393-dee4-49eb-af4a-7ea1270acf8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Level5">
+      <UniqueIdentifier>{0e76eb5b-881a-431c-95ce-a610d6506301}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="triangle_slide.cpp">
@@ -50,6 +56,48 @@
     </ClCompile>
     <ClCompile Include="array_6.cpp">
       <Filter>소스 파일\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="array_7.cpp">
+      <Filter>소스 파일\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="array_8.cpp">
+      <Filter>소스 파일\Level2</Filter>
+    </ClCompile>
+    <ClCompile Include="_1.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="time_complexity.cpp">
+      <Filter>소스 파일\Level5</Filter>
+    </ClCompile>
+    <ClCompile Include="_2.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="_3.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="_4.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="_15.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="_6.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="_7.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="_8.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="_9.cpp">
+      <Filter>소스 파일\Level3</Filter>
+    </ClCompile>
+    <ClCompile Include="time_complexity_2.cpp">
+      <Filter>소스 파일\Level5</Filter>
+    </ClCompile>
+    <ClCompile Include="_14.cpp">
+      <Filter>소스 파일\Level3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

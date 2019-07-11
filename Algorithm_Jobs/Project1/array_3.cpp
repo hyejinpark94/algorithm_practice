@@ -13,15 +13,22 @@
 //		cin >> num[i];
 //	}
 //
-//	//초기 최대값 및 idx 지정
-//	min_val = INT_MAX;
-//	min_idx = 0;
+//	int tmp;
 //	//최대값 및 idx 찾기
-//	for (int i = 0; i < 9; i++) {
-//		if (num[i] < min_val) {
-//			min_val = num[i];
-//			min_idx = i;
+//	for (int i = 0; i < 2; i++) {
+//		//초기 최대값 및 idx 지정
+//		min_val = INT_MAX;
+//		min_idx = 0;
+//		for (int j = i; j < 9; j++) {
+//			if (num[j] < min_val) {
+//				min_val = num[j];
+//				min_idx = j;
+//			}
 //		}
+//
+//		tmp = num[i];
+//		num[i] = num[min_idx];
+//		num[min_idx] = tmp;
 //	}
 //
 //	cout << min_val << "\n" << min_idx+1;

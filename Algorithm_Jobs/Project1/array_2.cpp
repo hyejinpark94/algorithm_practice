@@ -14,7 +14,7 @@
 //	}
 //
 //	//초기 최대값 및 idx 지정
-//	max = INT_MIN;
+//	max = int_min;
 //	max_idx = 0;
 //	//최대값 및 idx 찾기
 //	for (int i = 0; i < 9; i++) {

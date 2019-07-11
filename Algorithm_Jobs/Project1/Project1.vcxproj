@@ -130,11 +130,25 @@
     <ClCompile Include="array_3.cpp" />
     <ClCompile Include="array_5.cpp" />
     <ClCompile Include="array_6.cpp" />
+    <ClCompile Include="array_7.cpp" />
+    <ClCompile Include="array_8.cpp" />
     <ClCompile Include="multiple_for.cpp" />
     <ClCompile Include="prime.cpp" />
+    <ClCompile Include="time_complexity.cpp" />
+    <ClCompile Include="time_complexity_2.cpp" />
     <ClCompile Include="triangle_slide.cpp" />
     <ClCompile Include="triangle_slide2.cpp" />
     <ClCompile Include="triangle_slide3.cpp" />
+    <ClCompile Include="_1.cpp" />
+    <ClCompile Include="_14.cpp" />
+    <ClCompile Include="_15.cpp" />
+    <ClCompile Include="_2.cpp" />
+    <ClCompile Include="_3.cpp" />
+    <ClCompile Include="_4.cpp" />
+    <ClCompile Include="_6.cpp" />
+    <ClCompile Include="_7.cpp" />
+    <ClCompile Include="_8.cpp" />
+    <ClCompile Include="_9.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
